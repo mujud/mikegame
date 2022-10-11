@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mujud.github.io/mikegame/static/css/main.7d54afa9.chunk.css",
-    "main.js": "https://mujud.github.io/mikegame/static/js/main.453e32c1.chunk.js",
-    "main.js.map": "https://mujud.github.io/mikegame/static/js/main.453e32c1.chunk.js.map",
+    "main.js": "https://mujud.github.io/mikegame/static/js/main.05ff0a16.chunk.js",
+    "main.js.map": "https://mujud.github.io/mikegame/static/js/main.05ff0a16.chunk.js.map",
     "runtime-main.js": "https://mujud.github.io/mikegame/static/js/runtime-main.a24a101c.js",
     "runtime-main.js.map": "https://mujud.github.io/mikegame/static/js/runtime-main.a24a101c.js.map",
     "static/css/2.e01775a1.chunk.css": "https://mujud.github.io/mikegame/static/css/2.e01775a1.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.e01775a1.chunk.css",
     "static/js/2.62f8aec6.chunk.js",
     "static/css/main.7d54afa9.chunk.css",
-    "static/js/main.453e32c1.chunk.js"
+    "static/js/main.05ff0a16.chunk.js"
   ]
 }
